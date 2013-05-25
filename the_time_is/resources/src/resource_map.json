@@ -1,0 +1,11 @@
+{
+    "media": [
+        {
+            "defName": "FONT_ROBOTO_Bold_SUBSET_45",
+            "type": "font",
+            "file": "fonts/Roboto-Bold.ttf"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
