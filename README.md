@@ -1,4 +1,4 @@
-thetimeisnow
+The Time Is Now
 ============
 
-pebble watch face that state the time as now
+Pebble watchface that state the time is now
